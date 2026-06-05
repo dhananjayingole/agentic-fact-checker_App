@@ -249,3 +249,6 @@ Python FastAPI + Groq LLM + DuckDuckGo + Wikipedia + Neo4j
 ## 📄 License
 
 MIT — free to use, modify and distribute.
+
+APK of the APP is in the Released one.
+
