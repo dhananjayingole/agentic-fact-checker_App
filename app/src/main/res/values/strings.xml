@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FactChecker AI</string>
+    <string name="home_hint">Enter a claim to fact-check…</string>
+    <string name="verify_btn">Verify Claim</string>
+    <string name="history_title">History</string>
+    <string name="settings_title">Settings</string>
+    <string name="api_url_label">API Base URL</string>
+    <string name="max_sources_label">Max Sources</string>
+    <string name="dark_theme_label">Dark Theme</string>
+    <string name="clear_history">Clear History</string>
+    <string name="share_result">Share Result</string>
+    <string name="copy_claim">Copy Claim</string>
+    <string name="verdict_true">TRUE</string>
+    <string name="verdict_false">FALSE</string>
+    <string name="verdict_inconclusive">INCONCLUSIVE</string>
+    <string name="verdict_unverifiable">UNVERIFIABLE</string>
+    <string name="no_history">No fact-checks yet.\nStart by entering a claim above.</string>
+    <string name="error_network">No internet connection. Check your network.</string>
+    <string name="error_api">API error. Try again later.</string>
+</resources>
