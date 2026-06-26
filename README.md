@@ -7,16 +7,8 @@
 [![MinSDK](https://img.shields.io/badge/MinSDK-24_(Android_7)-lightgrey)](https://developer.android.com/about/versions/nougat)
 
 > A full-stack AI-powered Android app that fact-checks any claim in real time using a custom FastAPI backend, Groq LLM, and multi-source web evidence.
-
----
-
-## 📸 Screens
-
-| Home | Result | History | Settings |
-|---|---|---|---|
-| Enter claim + recent checks | Animated verdict card + evidence | Searchable + filterable history | API URL, theme, max sources |
-
----
+> 
+--
 
 ## ✨ Features
 
