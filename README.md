@@ -241,7 +241,7 @@ Once running, try these 4 test queries:
 
 ## 🤝 Related
 
-🐍 **Backend API** → [agentic-fact-checker](https://github.com/YOUR_USERNAME/agentic-fact-checker)
+🐍 **Backend API** → [agentic-fact-checker](https://github.com/dhananjayingole/agentic-fact-checker.git)
 Python FastAPI + Groq LLM + DuckDuckGo + Wikipedia + Neo4j
 
 ---
